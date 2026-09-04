@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-sqlalchemy
-bcrypt
-python-multipart
-itsdangerous
-jinja2
